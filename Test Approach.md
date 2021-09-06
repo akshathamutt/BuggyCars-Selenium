@@ -51,5 +51,7 @@ Apache POI (Java library for reading files)
 ```
 ## Test Design 
 
+## Bugs
 
+See the file Bugs.md 
 
