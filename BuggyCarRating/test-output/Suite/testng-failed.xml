@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test name="RegisterTest(failed)">
+    <classes>
+      <class name="com.cars.tests.RegisterTest">
+        <methods>
+          <include name="As_a_new_user_I_can_register_to_buggy_rating_website"/>
+        </methods>
+      </class> <!-- com.cars.tests.RegisterTest -->
+    </classes>
+  </test> <!-- RegisterTest(failed) -->
+  <test name="LoginTest(failed)">
+    <classes>
+      <class name="com.cars.tests.LoginTest">
+        <methods>
+          <include name="As_a_user_I_can_Login_vote_Logout"/>
+        </methods>
+      </class> <!-- com.cars.tests.LoginTest -->
+    </classes>
+  </test> <!-- LoginTest(failed) -->
+  <test name="UpdateProfile(failed)">
+    <classes>
+      <class name="com.cars.tests.UpdateProfile">
+        <methods>
+          <include name="As_a_user_when_I_update_firstname_it_should_reflect_on_the_header_greeting"/>
+        </methods>
+      </class> <!-- com.cars.tests.UpdateProfile -->
+    </classes>
+  </test> <!-- UpdateProfile(failed) -->
+</suite> <!-- Failed suite [Suite] -->

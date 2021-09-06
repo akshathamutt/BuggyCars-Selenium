@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+	<test thread-count="1" name="RegisterTest">
+		<classes>
+			<class name="com.cars.tests.RegisterTest" />
+		</classes>
+	</test> <!-- Test -->
+
+	<test thread-count="2" name="LoginTest">
+		<classes>
+			<class name="com.cars.tests.LoginTest" />
+		</classes>
+	</test> <!-- Test -->
+
+
+	<test thread-count="3" name="RegisterDataDriven_NegativeTests">
+		<classes>
+			<class name="com.cars.tests.RegisterDataDriven_NegativeTests" />
+		</classes>
+	</test> <!-- Test -->
+
+
+	<test thread-count="4" name="UpdateProfile">
+		<classes>
+			<class name="com.cars.tests.UpdateProfile" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
