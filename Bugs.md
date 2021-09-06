@@ -29,3 +29,7 @@
 **Actual Behaviour:** Prior to clicking on “Votes”, the displayed list is sorted in descending order of the number of votes, with the highest voted model displayed first and the lowest voted model displayed last. On clicking on “Votes”, the display order changes randomly without any sort of order. The only way to recover from this is to refresh the page. 
 
 **Expected Behaviour:** Sorting needs to be either ascending or descending at all times.
+
+## Test Summary
+
+Overall the user friendliness of the website is poor, with inconsistent behaviour throughout the application (Navigation to home page working only from certain pages, sorting working only on certain columns, author being displayed only for certain car models etc). The screen layout of the different elements are also not optimal. With inconsistencies in the header, footer and the font, the general feeling that one gets is that the website is not very trustworthy.
