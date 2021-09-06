@@ -1,6 +1,6 @@
 # Bugs
 
-### Defect 1:
+### Bug 1:
 
 **Description:** Logging out from the Profile page, leaves the profile information of the user still visible.
 
@@ -10,7 +10,7 @@
 
 **Expected Behaviour:** When the user logs out of the application, the home page should be displayed. From a security perspective it is not good to leave a user's personal information displayed once logged off.
 
-### Defect 2:
+### Bug 2:
 
 **Description:** Total number of votes for the Popular make is incorrect. 
 
@@ -20,7 +20,7 @@
 
 **Expected Behaviour:** One of the primary purposes of the website is for people to view different car models and vote on them, thereby determining the most popular car make and model. The calculation of the votes is key to this purpose being served. It is very important that the number of votes is calculated correctly.
 
-### Defect 3:
+### Bug 3:
 
 **Description:** The sorting on the “Votes” column in the “Popular Make” page does not work properly.
 
