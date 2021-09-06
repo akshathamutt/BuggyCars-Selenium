@@ -51,7 +51,5 @@ Apache POI (Java library for reading files)
 ```
 ## Test Design 
 
-## Test Summary
 
-Overall the user friendliness of the website is poor, with inconsistent behaviour throughout the application (Navigation to home page working only from certain pages, sorting working only on certain columns, author being displayed only for certain car models etc). The screen layout of the different elements are also not optimal. With inconsistencies in the header, footer and the font, the general feeling that one gets is that the website is not very trustworthy.
 
