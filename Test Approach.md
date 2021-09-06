@@ -31,7 +31,7 @@ Scenarios to automate will be considered based on the following:
 - Functionality that is stable and not subject to constant change
 - Functionality that is time consuming to test manually, and is tested frequently as part of Smoke and Regression testing
 
-Critical scenarios selected for automation:
+**Critical scenarios selected for automation:**
 
 1. As a valid user I can log-in and vote for a desired car model
 2. As a valid user I can change my password
