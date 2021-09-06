@@ -51,6 +51,8 @@ Apache POI (Java library for reading files)
 ```
 ## Test Design 
 
+![Test Design](https://github.com/akshathamutt/BuggyCars-Selenium/blob/main/Test%20design.PNG)
+
 ## Bugs
 
 See the file Bugs.md 
